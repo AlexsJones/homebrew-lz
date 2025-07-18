@@ -1,10 +1,10 @@
 class Lz < Formula
   desc "A blazingly fast CLI to list the 5 most recently accessed files in a directory tree"
   homepage "https://github.com/AlexsJones/lz"
-  url "https://github.com/AlexsJones/lz/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "72c801ca31b9b04bb6044b585d819faa252758a92be7b77d80ae77c54cebeb6e"
+  url "https://github.com/AlexsJones/lz/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "a81bd529d647a101654de08e496f4eb77e67be5650309c6732a41f2eea35f0ba"
   license "MIT"
-  version "1.0.0"
+  version "1.0.1"
 
   depends_on "rust" => :build
 
